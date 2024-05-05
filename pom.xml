@@ -4,7 +4,7 @@
   <artifactId>sample-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>sample-project</name>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <build>
     <plugins>
       <plugin>

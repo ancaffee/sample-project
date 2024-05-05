@@ -4,12 +4,12 @@
   <artifactId>sample-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>sample-project</name>
+  <packaging>jar</packaging>
   <build>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
-		<packaging>jar</packaging>
         <configuration>
           <release>15</release>
         </configuration>

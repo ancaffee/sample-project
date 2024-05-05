@@ -7,9 +7,7 @@ public class HelloWorld {
 
 	}
 	
-	//from b1 branch + dan + ramesh code changes
-	//dan changes for stash demo
-	//ramesh code changes for stash demo
+	//QA Unit test
 
 	public void m1(){
 		System.out.println("hello");
